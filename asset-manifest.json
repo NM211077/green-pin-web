@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/green-pin-big-brain/static/css/main.ddaf0dd1.chunk.css",
+    "main.js": "/green-pin-big-brain/static/js/main.38c31ba1.chunk.js",
+    "main.js.map": "/green-pin-big-brain/static/js/main.38c31ba1.chunk.js.map",
+    "runtime-main.js": "/green-pin-big-brain/static/js/runtime-main.5dfba704.js",
+    "runtime-main.js.map": "/green-pin-big-brain/static/js/runtime-main.5dfba704.js.map",
+    "static/js/2.4117ff9b.chunk.js": "/green-pin-big-brain/static/js/2.4117ff9b.chunk.js",
+    "static/js/2.4117ff9b.chunk.js.map": "/green-pin-big-brain/static/js/2.4117ff9b.chunk.js.map",
+    "index.html": "/green-pin-big-brain/index.html",
+    "precache-manifest.5c58645c06b0083a11adca71a16bea7f.js": "/green-pin-big-brain/precache-manifest.5c58645c06b0083a11adca71a16bea7f.js",
+    "service-worker.js": "/green-pin-big-brain/service-worker.js",
+    "static/css/main.ddaf0dd1.chunk.css.map": "/green-pin-big-brain/static/css/main.ddaf0dd1.chunk.css.map",
+    "static/js/2.4117ff9b.chunk.js.LICENSE.txt": "/green-pin-big-brain/static/js/2.4117ff9b.chunk.js.LICENSE.txt",
+    "static/media/FrameLogIn.png": "/green-pin-big-brain/static/media/FrameLogIn.385799e5.png",
+    "static/media/Play.png": "/green-pin-big-brain/static/media/Play.4b1426ae.png",
+    "static/media/appStore.png": "/green-pin-big-brain/static/media/appStore.1c70b2e8.png",
+    "static/media/camera.svg": "/green-pin-big-brain/static/media/camera.6d8a3773.svg",
+    "static/media/fontello.css": "/green-pin-big-brain/static/media/fontello.f5857131.ttf",
+    "static/media/logo.svg": "/green-pin-big-brain/static/media/logo.4943accd.svg",
+    "static/media/pen.svg": "/green-pin-big-brain/static/media/pen.b07df44c.svg",
+    "static/media/preloader.gif": "/green-pin-big-brain/static/media/preloader.5c1317f0.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfba704.js",
+    "static/js/2.4117ff9b.chunk.js",
+    "static/css/main.ddaf0dd1.chunk.css",
+    "static/js/main.38c31ba1.chunk.js"
+  ]
+}
